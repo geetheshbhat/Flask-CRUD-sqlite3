@@ -9,7 +9,7 @@ It performs
 -	Delete
 
 # How will I run this appliction?
-You have to use Postman to send request
+Install Flask and run the application using `python app.py`. You have to use Postman to send request
 
 # Example:
 
